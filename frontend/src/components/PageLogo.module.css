@@ -1,0 +1,16 @@
+.mypage_logo_top {
+  display: flex;
+  justify-content: left;
+  flex-flow: nowrap;
+  margin: 2% 0 0 2%;
+  width: 130px;
+  cursor: pointer;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.mypage_logo {
+  width: 90px;
+  height: 100px;
+}
